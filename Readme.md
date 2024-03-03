@@ -11,7 +11,7 @@ I'm a fervent code lover, always seeking new ways to dazzle and captivate throug
 
 ### Proficient In
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **SCSS**
 - **JavaScript**
 - **Angular**
