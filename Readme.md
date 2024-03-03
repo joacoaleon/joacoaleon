@@ -1,26 +1,28 @@
+<div align="center">
+   <img src="/_1bb3f97d-db41-428d-ac43-a4440c14921a.jpg" width="200" alt="Joaquin's Profile Picture" />
+   <h1 style="font-size: 2.5rem;">Hello World! 👋</h1>
+   <p>I'm Joaquin, an enthusiastic developer with a passion for creating and innovating in the digital world!</p>
+</div>
 
-<p align="center" width="300">
-   <img align="center" width="200" src="/_1bb3f97d-db41-428d-ac43-a4440c14921a.jpg" />
-   <h3 align="center">Hola 👋, Soy Joaquin </h3>
-   <h3 align="center">¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y las tecnologías que domino.</h3>
-</p>
+## About Me 🚀
+I'm a fervent code lover, always seeking new ways to dazzle and captivate through technology. My passion is turning ideas into reality, exploring the latest trends, and pushing the boundaries of what's possible.
 
-## Acerca de mí 🚀
-Soy un apasionado desarrollador frontend y backend con experiencia en diferentes tecnologías web. Me encanta explorar nuevas herramientas y mejorar constantemente mis habilidades de desarrollo.
+## Skills 🛠️
 
-## Tecnologías que domino 🛠️
-
-### Habilidades
+### Proficient In
 - **HTML5**
 - **CSS3**
 - **SCSS**
 - **JavaScript**
 - **Angular**
 - **React**
-- **PHP**
+- **Node.js**
+- **Tailwind CSS**
+- **TypeScript**
+- **Next.js**
 
-## Contacto 📫
-¡No dudes en contactarme si quieres colaborar en algún proyecto interesante o simplemente para decir hola!
+## Contact 📫
+Feel free to reach out if you want to collaborate on an innovative project or just to exchange exciting ideas!
 
-- **Correo Electrónico:** [joacoaleon@gmail.com](mailto:joacoaleon@gmail.com)
+- **Email:** [joacoaleon@gmail.com](mailto:joacoaleon@gmail.com)
 - **LinkedIn:** [Joaco Aleon](https://www.linkedin.com/in/joaquin-andres-aleon/)
