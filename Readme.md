@@ -20,6 +20,7 @@ I'm a fervent code lover, always seeking new ways to dazzle and captivate throug
 - **Tailwind CSS**
 - **TypeScript**
 - **Next.js**
+- **PHP**
 
 ## Contact 📫
 Feel free to reach out if you want to collaborate on an innovative project or just to exchange exciting ideas!
