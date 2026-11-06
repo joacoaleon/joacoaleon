@@ -2,18 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Joaquin Aleon — Full Stack Software Engineer" />
 
-<br />
-
-I design, modernize, and ship software for real-world business and industrial needs.
-
-<br />
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-andres-aleon/)
-[![Email](https://img.shields.io/badge/Let's_talk-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacoaleon@gmail.com)
-
-</div>
-
 ---
 
 ## About
@@ -93,6 +81,11 @@ I use generative AI as an engineering aid, with human review and validation thro
 
 I'm open to software engineering opportunities, professional collaborations, and freelance projects where thoughtful engineering can make a measurable difference.
 
-[**Connect on LinkedIn**](https://www.linkedin.com/in/joaquin-andres-aleon/) · [**Send me an email**](mailto:joacoaleon@gmail.com)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-andres-aleon/)
+[![Email](https://img.shields.io/badge/Let's_talk-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacoaleon@gmail.com)
+
+</div>
 
 </div>
