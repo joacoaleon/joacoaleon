@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Joaquin Aleon — Full Stack Software Engineer" />
 
----
-
 ## About
 
 I'm a **Full Stack Software Engineer from Argentina** with 5+ years of experience building and evolving software across the entire delivery lifecycle.
