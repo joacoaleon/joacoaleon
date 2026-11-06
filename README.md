@@ -1,89 +1,97 @@
-<div align="center">
-
-<img src="./assets/banner.svg" width="100%" alt="Joaquin Aleon — Full Stack Software Engineer" />
-
-## About
-
-I'm a **Full Stack Software Engineer from Argentina** with 5+ years of experience building and evolving software across the entire delivery lifecycle.
-
-My work connects product needs, business processes, and implementation: from functional analysis and system design to APIs, interfaces, integrations, performance improvements, and deployments. I have a particular focus on **enterprise software, industrial platforms, legacy modernization, and practical AI-assisted engineering**.
-
-## What I build
-
-| Area | What it looks like in practice |
-| :--- | :--- |
-| **Industrial software & production systems** | Monitoring, traceability, production workflows, operational indicators, and dashboards. |
-| **Legacy modernization** | Refactoring existing applications, improving architecture, migrating systems, and reducing maintenance friction. |
-| **Full Stack web applications** | Business-critical interfaces, REST APIs, integrations, and database-driven systems. |
-| **AI-assisted engineering & automation** | Code analysis, debugging, refactoring, documentation, workflow automation, and exploration of AI-powered features. |
-
-## Professional experience
-
-### Ingenea SRL
-
-I develop and maintain enterprise and industrial software, working across frontend and backend layers to support real operational needs. My responsibilities include:
-
-- Building and evolving software for production monitoring, traceability, and operational reporting.
-- Modernizing existing applications through refactoring, architecture improvements, and incremental migration.
-- Developing interfaces, APIs, integrations, and database-backed features.
-- Optimizing queries and improving the maintainability and performance of established systems.
-- Contributing to functional analysis, implementation, testing, and deployments.
-
-### Freelance software engineering
-
-I also collaborate on freelance projects, helping clients turn requirements into maintainable web applications, integrations, and practical software solutions.
-
-## Tech stack
 
 <div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Joaquin Aleon — Full Stack Software Engineer" />
+</div>
+
+<br>
+
+### Hey, I'm Joaquin 👋
+
+**Full Stack Software Engineer** · Rosario, Argentina 🇦🇷
+
+I build software that solves real business problems — from modern web applications to industrial systems and legacy modernization.
+
+With **5+ years of experience**, I work across the entire development lifecycle, combining strong frontend expertise, backend engineering, and a practical approach to AI-assisted development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-andres-aleon/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:joacoaleon@gmail.com)
+
+---
+
+### ⚡ What I do
+
+- **Full Stack Engineering** — Building scalable interfaces, REST APIs, integrations, and business applications.
+- **Industrial Software** — Production monitoring, traceability, operational dashboards, and data-driven solutions.
+- **Legacy Modernization** — Improving existing systems through migration, refactoring, and architectural changes.
+- **AI-Assisted Development** — Using generative AI for analysis, debugging, documentation, and workflow improvements.
+
+### 💼 Experience
+
+**Full Stack Developer · Ingenea SRL**  
+`2022 — Present`
+
+Developing and maintaining enterprise and industrial software, with a focus on reliability, performance, and continuous improvement.
+
+- Work directly with stakeholders to understand requirements and design solutions.
+- Develop and maintain frontend applications, backend services, and integrations.
+- Modernize legacy systems and optimize existing architectures.
+- Build tools for industrial production, monitoring, and operational analytics.
+- Participate in feature delivery, testing, and deployments.
+
+**Freelance Software Developer**  
+`2021 — 2025`
+
+Developed custom web applications and management systems for businesses, covering frontend development, backend logic, integrations, and database design.
+
+---
+
+### 🛠️ Technologies
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,typescript,javascript,html,css,tailwind,sass&perline=10" alt="Angular, React, Next.js, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, and Sass" />
+![Frontend](https://skillicons.dev/icons?i=angular,react,nextjs,vue,ts,js,html,css,tailwind,sass&perline=10)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python&perline=4" alt="PHP, Laravel, Node.js, and Python" />
+![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs,python&perline=8)
 
-**Databases & integrations**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=3" alt="MySQL, MongoDB, and Redis" />
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=8)
 
-`SQL Server` · `REST APIs` · `System integrations`
+`SQL Server` · `REST APIs` · `Database Optimization`
 
-**Tools & DevOps**
+**Development & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman&perline=7" alt="Git, GitHub, Docker, Linux, Ubuntu, VS Code, and Postman" />
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=8)
 
-</div>
+---
 
-## AI & modern engineering
+### 🤖 AI in my workflow
 
-I use generative AI as an engineering aid, with human review and validation throughout the process. Current applications include:
+I use generative AI as a practical engineering tool to improve development efficiency and explore better technical solutions.
 
-`Code analysis` · `Debugging` · `Refactoring` · `Documentation` · `Workflow automation` · `AI-powered feature exploration`
+**How I use it:**
 
-## GitHub activity
+`Code Analysis` `Debugging` `Refactoring` `Documentation` `Automation` `AI Integrations`
 
-<div align="center">
+My approach combines AI-assisted workflows with engineering judgment, code review, and validation.
 
-<img src="https://streak-stats.demolab.com?user=joacoaleon&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for joacoaleon" />
+---
 
+### 📈 GitHub Activity
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=joacoaleon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div align="center">
+### Let's connect
 
-## Let's work together
+I'm interested in meaningful software projects, engineering challenges, and opportunities to build solutions that make a difference.
 
-I'm open to software engineering opportunities, professional collaborations, and freelance projects where thoughtful engineering can make a measurable difference.
+**Open to collaboration, freelance projects, and software engineering opportunities.**
 
-<br />
+[LinkedIn](https://www.linkedin.com/in/joaquin-andres-aleon/) · [Email](mailto:joacoaleon@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-andres-aleon/)
-[![Email](https://img.shields.io/badge/Let's_talk-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacoaleon@gmail.com)
-
-</div>
-
-</div>
